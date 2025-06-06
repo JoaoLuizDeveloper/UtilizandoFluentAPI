@@ -29,10 +29,8 @@ Fluent API for model configuration
 🚀 Getting Started
 Clone the repository:
 
-bash
-Copy
-Edit
 git clone https://github.com/JoaoLuizDeveloper/UtilizandoFluentAPI.git
+<br />
 cd UtilizandoFluentAPI
 Set up the database:
 
@@ -42,9 +40,6 @@ Update the connection string in appsettings.json to point to your SQL Server ins
 
 Apply migrations and update the database:
 
-bash
-Copy
-Edit
 dotnet ef database update
 Run the application:
 
