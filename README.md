@@ -1,4 +1,5 @@
 UtilizandoFluentAPI
+<br />
 A personal project by João Luiz demonstrating the use of Entity Framework Core's Fluent API for configuring entity relationships and database schema in an ASP.NET Core MVC application.
 
 📁 Project Structure
